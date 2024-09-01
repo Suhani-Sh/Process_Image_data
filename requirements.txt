@@ -1,0 +1,7 @@
+Flask==2.2.3
+Celery==5.2.6
+Pillow==10.0.0
+pandas==2.0.3
+requests==2.31.0
+SQLAlchemy==2.0.21
+redis==5.0.14
